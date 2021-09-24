@@ -6,7 +6,8 @@
 
 
 
-### Olá mundo! 👋
+### Olá mundo, me chamo Ana Carolina! 👋
+
 
 ### 🖥️ Estudando Desenvolvimento Front-end, amo CSS ❤️.
 ### 🤟 1º trimestre de Análise e Desenvolvimento de Sistemas - Feevale.
